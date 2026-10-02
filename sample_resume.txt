@@ -1,0 +1,17 @@
+﻿Elena Rostova
+Lead Cloud Architect
+Email: elena.rostova@cloudscale.io | GitHub: github.com/erostova-cloud
+Education: B.S. in Computer Science, University of Washington (2020), GPA: 3.9
+
+Professional Experience:
+Cloud Infrastructure Lead at SkyHigh Networks (2022 - Present)
+- Architected automated Kubernetes deployment clusters on AWS serving 1M+ requests per minute.
+- Deployed high-performance microservices using Python, FastAPI, Docker, and PostgreSQL.
+- Optimized Redis caching layers and streamlined container workflows.
+
+Projects:
+CloudStream Mesh Gateway
+- Distributed service mesh gateway connecting microservices with zero-trust security.
+
+Technical Skills:
+Python, FastAPI, Kubernetes, Docker, PostgreSQL, Redis, AWS, Terraform, Go

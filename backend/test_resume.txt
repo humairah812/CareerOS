@@ -1,0 +1,10 @@
+Jane Doe
+Email: jane.doe@example.com
+Software Engineer with expertise in Python, FastAPI, React, TypeScript, and Docker.
+Experience:
+Full Stack Engineer at TechCorp (2022-2025)
+- Developed cloud APIs with Python and FastAPI.
+Education:
+B.S. Computer Science, Stanford University (2022)
+Skills:
+Python, FastAPI, React, TypeScript, Docker, SQL
